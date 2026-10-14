@@ -6,11 +6,11 @@ Most of what I build finds a problem and fixes it: EV chargers that resolve faul
 
 Below are four case studies, each with the decisions, artefacts and outcomes behind the work.
 
-## Case studies
+## Case studies (WIP)
 
 | Case | What it shows | Outcome | Proof |
 |---|---|---|---|
-| [GreenShift product agents](https://github.com/jordibakker/greenshift-agents) | Human-in-the-loop agents for backlog management and market intelligence | [result to add] | Code |
+| [GreenShift product agents](https://github.com/jordibakker/greenshift-agents) | Human-in-the-loop agents for backlog management and market intelligence | [result to be added] | Code |
 | [LunaVector](https://github.com/jordibakker/lunavector) | Founder work from idea to launch, with an AI-operated team | ~50% lower operating cost, daily iteration | Live site, app flows |
 | [EVBox monitoring and SLA](https://github.com/jordibakker/evbox-monitoring-sla) | Systems thinking across hardware, embedded software and cloud | €500k+ ARR from zero in one quarter | System diagrams |
 | [EVBox payments](https://github.com/jordibakker/evbox-payments) | Partner and customer integration in a regulated market | €2M+ in hardware sales | Press coverage |
@@ -33,4 +33,4 @@ Prepare, detect, react, correct. I plan for the problem, catch it early, respond
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/jordi-bakker) · [jordibakker.com](https://jordibakker.com)
+[LinkedIn](https://www.linkedin.com/in/jordi-bakker) · [jordibakker.com](https://jordibakker.com) · jordi.bakker@gmail.com
