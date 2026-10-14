@@ -17,13 +17,17 @@ Below are four case studies, each with the decisions, artefacts and outcomes beh
 
 ## Currently working on (October 2026)
 
-- Moving GreenShift's product lifecycle to an agentic SDLC through harness engineering
-- Taking GreenShift towards product-market fit
+- Designing GreenShift's product lifecycle to an agentic SDLC through harness engineering
+- Driving GreenShift towards product-market fit
 - Building LunaVector in my spare time
 
 ## How I work
 
 Prepare, detect, react, correct. I plan for the problem, catch it early, respond fast, then fix the cause, in the product and in the team.
+
+## Toolkit
+
+AI and agents: Claude Code, Notion · Product and delivery: Jira, Notion, Confluence, Miro, Claude Cowork · Design: Figma, Claude Design, Lovable · Data: Hotjar, Google Analytics  
 
 ## Fun facts
 
